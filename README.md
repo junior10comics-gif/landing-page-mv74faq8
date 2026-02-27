@@ -1,2 +1,10 @@
-# landing-page-mv74faq8
-Project created with AI Builder
+# landing-page
+
+Built with React + Vite
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
